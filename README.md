@@ -9,4 +9,4 @@ Para compilar:
 make cyanogenmod_maxwellplus_defconfig
 make o make kernel.img
 
-Gracias a Kra1o5 
+Gracias a Kra1o5 por sus fuentes
